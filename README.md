@@ -1,7 +1,7 @@
 # Credit Card Transaction Categorizer & Rewards Recommender
 
 ## Description
-This project focuses on leveraging unsupervised learning for transaction categorization and predictive modeling for user expenditure trends. It integrates BERT embeddings to classify credit card transactions into various categories. Following the categorization, the project predicts monthly spending habits per category for users. This prediction subsequently drives the recommendation system that suggests rewards to optimize the user's spending habits.
+This project focuses on leveraging unsupervised learning for transaction categorization and predictive modeling for user expenditure trends. It integrates BERT embeddings to classify credit card transactions into various categories. Following the categorization, the project predicts monthly spending habits per category for users. This prediction subsequently drives the recommendation system that suggests rewards to optimize the user's spending habits, 2021.
 
 ## Features
 1. **Unsupervised Text Classification Model**: Classifies transaction descriptions into respective categories using BERT embeddings.

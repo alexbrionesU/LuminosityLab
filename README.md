@@ -24,3 +24,5 @@ This project focuses on leveraging unsupervised learning for transaction categor
 ![image](https://github.com/alexbrionesU/LuminosityLab/assets/38999690/4a53f743-46a1-4bc2-a870-069ff3ac057f)
 
 ## Rewards Recommender
+
+## Output
